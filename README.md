@@ -6,6 +6,8 @@ List of CVPR 2026 papers with AI-extracted keywords.
 
 `cvpr26-papers.csv` contains one row per paper:
 
+For easier browsing on GitHub, split copies of the CSV are also available in `view/` as `cvpr26-papers-part-01.csv` through `cvpr26-papers-part-05.csv`.
+
 | column | description |
 |---|---|
 | `title` | Paper title from the CVPR 2026 Open Access listing. |
